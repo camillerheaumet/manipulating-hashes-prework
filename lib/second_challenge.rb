@@ -8,9 +8,9 @@ def second_challenge
 
   #code your solution here!
   list = []
-  
-  list = groceries.values 
   binding.pry
+  list = groceries.values 
+  
   
 
 end
