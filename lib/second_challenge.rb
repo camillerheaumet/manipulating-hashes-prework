@@ -10,7 +10,7 @@ def second_challenge
   list = []
   
   list = groceries.values 
-  
+  binding.pry
   
 
 end
