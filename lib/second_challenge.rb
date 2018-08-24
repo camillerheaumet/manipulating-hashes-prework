@@ -12,6 +12,6 @@ def second_challenge
   
   list = groceries.values 
   binding.pry
-  
+  list.flatten
 
 end
